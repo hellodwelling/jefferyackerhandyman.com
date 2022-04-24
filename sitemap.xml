@@ -2,3 +2,103 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <url>
+        <loc>https://jefferyackerhandyman.com/index</loc>
+        <lastmod>2022-04-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://jefferyackerhandyman.com/store</loc>
+        <lastmod>2022-04-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://jefferyackerhandyman.com/reviews</loc>
+        <lastmod>2022-04-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://jefferyackerhandyman.com/gallery-All</loc>
+        <lastmod>2022-04-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://jefferyackerhandyman.com/gallery-Other-Services-</loc>
+        <lastmod>2022-04-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://jefferyackerhandyman.com/gallery-Renovations</loc>
+        <lastmod>2022-04-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://jefferyackerhandyman.com/service-Home-Renovation</loc>
+        <lastmod>2022-04-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://jefferyackerhandyman.com/service-Home-Remodeling</loc>
+        <lastmod>2022-04-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://jefferyackerhandyman.com/service-Plumbing</loc>
+        <lastmod>2022-04-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://jefferyackerhandyman.com/service-Flooring</loc>
+        <lastmod>2022-04-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://jefferyackerhandyman.com/service-Kitchen-Renovation</loc>
+        <lastmod>2022-04-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://jefferyackerhandyman.com/service-Fencing</loc>
+        <lastmod>2022-04-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://jefferyackerhandyman.com/service-Bathroom-Renovation</loc>
+        <lastmod>2022-04-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://jefferyackerhandyman.com/service-Painting</loc>
+        <lastmod>2022-04-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+</urlset>
